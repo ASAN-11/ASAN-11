@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ASAN-11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Ashish Anand aka ASAN-11.
+I’m interested in WEb , GaME and mL DeveLopMenT.
+I’m currently learning DaTa AnAlYtICs and PyThoN.
+I’m looking to collaborate on WEb ProJeCTs. 
+You can cntact me on LinkedIn.
 
-<!---
-ASAN-11/ASAN-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
