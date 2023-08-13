@@ -5,4 +5,8 @@ I’m currently learning DaTa AnAlYtICs and PyThoN.
 I’m looking to collaborate on WEb ProJeCTs. 
 You can contact me on LinkedIn.
 
+![ASAN-11's Stats](https://github-readme-stats.vercel.app/api?username=ASAN-11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![ASAN-11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ASAN-11&theme=vue-dark&hide_border=true)
+
 ![ASAN-11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
