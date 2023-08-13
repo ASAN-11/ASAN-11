@@ -5,4 +5,4 @@ I’m currently learning DaTa AnAlYtICs and PyThoN.
 I’m looking to collaborate on WEb ProJeCTs. 
 You can contact me on LinkedIn.
 
-[[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adriantwarog)](https://github.com/anuraghazra/github-readne-stats)
+![ASAN-11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
