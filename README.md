@@ -33,6 +33,8 @@
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 ![XML](https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=xml&logoColor=white)
 
+---
+
 ### Frameworks • Technologies • Platforms • Tools
 
 ####  AI/ML • Quant • Scientific Computing
@@ -78,6 +80,7 @@
 ####  Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux)
 
+---
 
 ### Domains
 ![AI](https://img.shields.io/badge/AI%2FML-00ffaa?style=for-the-badge)
@@ -87,7 +90,6 @@
 ![Astrospace](https://img.shields.io/badge/Astrospace-00ffaa?style=for-the-badge)
 ![Web3](https://img.shields.io/badge/Web3-00ffaa?style=for-the-badge)
 
----
 
 ## 📫 Connect
 
