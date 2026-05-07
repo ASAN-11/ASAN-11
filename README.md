@@ -27,7 +27,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks)
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-111111?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go)
 ![VHDL](https://img.shields.io/badge/VHDL-111111?style=for-the-badge&logoColor=white)
 
 ### Domains
