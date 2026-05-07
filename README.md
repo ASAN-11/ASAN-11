@@ -25,7 +25,7 @@
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
 ![CUDA](https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia)
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
-![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks)
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
