@@ -79,7 +79,11 @@
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
-![snake gif](https://github.com/ASAN-11/ASAN-11/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
+</p>
 
 ---
 
