@@ -79,8 +79,6 @@
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=asan-11&repo=react&show_owner=true)](https://github.com/asan-11/react)
-
 ---
 
 ## 🏆 Competitive Programming
