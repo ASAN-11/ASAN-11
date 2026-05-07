@@ -75,6 +75,19 @@
 
 ---
 
+## 🏆 Competitive Programming
+- Codeforces
+- LeetCode
+- AIcrowd
+- Project Euler
+- ICPC
+- Kaggle
+- HackerRank
+- Quantiacs
+- Numerai
+
+---
+
 ## 📫 Connect
 
 - GitHub   : github.com/ASAN-11
