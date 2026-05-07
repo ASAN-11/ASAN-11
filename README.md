@@ -23,7 +23,6 @@
 ![CSS3](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
 ![C#](https://img.shields.io/badge/c%23-111111?style=for-the-badge&logo=csharp)
-![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
 ![CUDA](https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia)
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logoColor=white)
@@ -41,29 +40,23 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter)
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
-
 ![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-111111?style=for-the-badge&logo=nvidia)
 ![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux)
-
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unrealengine)
-
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-111111?style=for-the-badge&logo=raspberrypi)
-
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
-![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum)
 
 
