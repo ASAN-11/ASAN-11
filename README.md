@@ -3,11 +3,18 @@
 
 # 👋 Hi, I’m Ashish Anand aka ASAN-11.
 
-🚀 About Me
-📈 Exploring Quantitative Finance & Mathematical Modeling.
-🤖 Building with AI/ML, Robotics, and Intelligent Systems.
-🛰️ Interested in Astrospace Engineering & Space Tech.
-⚛️ Researching Nanotechnology & Advanced Materials.
-💻 Developing scalable software as an SDE.
-🌐 Exploring decentralized systems in Web3.
+## 🚀 About Me
 
+📈 Exploring **Quantitative Finance & Mathematical Modeling**  
+🤖 Building with **AI/ML, Robotics & Intelligent Systems**  
+🛰️ Interested in **Astrospace Engineering & Space Technology**  
+⚛️ Researching **Nanotechnology & Advanced Materials**  
+💻 Developing scalable systems as an **SDE**  
+🌐 Exploring decentralized ecosystems in **Web3**
+
+## 📫 Connect
+
+- GitHub   : github.com/ASAN-11
+- LinkedIn : linkedin.com/in/meetashishanand
+- X/Twitter: x.com/WhoAshishAnand
+- LeetCode : leetcode.com/u/ASAN-11/
