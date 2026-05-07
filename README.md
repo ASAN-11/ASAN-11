@@ -25,7 +25,7 @@
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
 ![CUDA](https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia)
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
-![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks)
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=matlab)
 
 ### Domains
 ![AI](https://img.shields.io/badge/AI%2FML-00ffaa?style=for-the-badge)
