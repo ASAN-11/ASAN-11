@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/ASAN-11/ASAN-11/main/Black Technology LinkedIn Banner (2).png" width="100%" />
+<img src="https://raw.githubusercontent.com/ASAN-11/ASAN-11/main/banner.png" width="100%" />
 
 # 👋 Hi, I’m Ashish Anand aka ASAN-11.
 
