@@ -77,7 +77,7 @@
 ---
 
 ## 📊 GitHub Statistics
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=ASAN-11&theme=tokyonight)
 
 ---
 
