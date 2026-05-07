@@ -81,6 +81,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&layout=compact&langs_count=12&theme=tokyonight"/>
+
 ---
 
 ## 🏆 Competitive Programming
