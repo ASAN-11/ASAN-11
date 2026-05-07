@@ -12,6 +12,13 @@
 💻 Developing scalable systems as an **SDE**  
 🌐 Exploring decentralized ecosystems in **Web3**
 
+## ⚡ Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust)
+
 ## 📫 Connect
 
 - GitHub   : github.com/ASAN-11
