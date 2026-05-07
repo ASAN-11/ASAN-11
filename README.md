@@ -73,6 +73,11 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 🏆 Competitive Programming
@@ -92,8 +97,7 @@
 
 - GitHub   : github.com/ASAN-11
 - LinkedIn : linkedin.com/in/meetashishanand
-- X/Twitter: x.com/WhoAshishAnand
-- LeetCode : leetcode.com/u/ASAN-11/
+- X/Twitter : x.com/WhoAshishAnand
 
 ---
 ### “From nanoscale intelligence to interstellar systems.” 🚀
