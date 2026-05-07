@@ -21,7 +21,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
-![C#](https://img.shields.io/badge/C#-111111?style=for-the-badge&logo=chash)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
 ![CUDA](https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia)
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
