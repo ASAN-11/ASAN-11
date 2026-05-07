@@ -71,6 +71,8 @@
 ![Electronics](https://img.shields.io/badge/Electronics%20&%20Communication-0096ff?style=for-the-badge)
 ![SDE](https://img.shields.io/badge/Software%20&%20Game%20Dev-0096ff?style=for-the-badge)
 ![Maths](https://img.shields.io/badge/Mathematics-0096ff?style=for-the-badge)
+![Quantum](https://img.shields.io/badge/Quantum%20Engineering-0096ff?style=for-the-badge)
+![Design](https://img.shields.io/badge/Digital%20Designing-0096ff?style=for-the-badge)
 
 ---
 
