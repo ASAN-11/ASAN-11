@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
 
 ### Domains
