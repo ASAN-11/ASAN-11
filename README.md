@@ -12,7 +12,6 @@
 💻 Developing scalable systems as an **SDE**  
 🌐 Exploring decentralized ecosystems in **Web3**
 
----
 
 ## ⚡ Tech Stack
 ### Languages
@@ -33,11 +32,8 @@
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 ![XML](https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=xml&logoColor=white)
 
----
 
 ### Frameworks • Technologies • Platforms • Tools
-
-####  AI/ML • Quant • Scientific Computing
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
@@ -47,26 +43,21 @@
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 
-####  Quant • Mathematics • Finance
 ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks)
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r)
 
-####  Astrophysics • Simulation • HPC
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-111111?style=for-the-badge&logo=nvidia)
 ![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender)
 
-####  Game Development
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unrealengine)
 
-####  Robotics • Embedded • ECE
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-111111?style=for-the-badge&logo=raspberrypi)
 
-####  SDE • Full Stack • Web3
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
@@ -77,10 +68,8 @@
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum)
 
-####  Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux)
 
----
 
 ### Domains
 ![AI](https://img.shields.io/badge/AI%2FML-00ffaa?style=for-the-badge)
