@@ -18,6 +18,8 @@
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust)
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
 
 ### Domains
 ![AI](https://img.shields.io/badge/AI%2FML-00ffaa?style=for-the-badge)
