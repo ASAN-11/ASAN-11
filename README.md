@@ -78,6 +78,7 @@
 
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
