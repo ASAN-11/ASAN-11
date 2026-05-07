@@ -81,3 +81,6 @@
 - LinkedIn : linkedin.com/in/meetashishanand
 - X/Twitter: x.com/WhoAshishAnand
 - LeetCode : leetcode.com/u/ASAN-11/
+
+---
+### “From nanoscale intelligence to interstellar systems.” 🚀
