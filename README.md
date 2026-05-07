@@ -79,6 +79,8 @@
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
+![snake gif](https://github.com/ASAN-11/ASAN-11/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🏆 Competitive Programming
