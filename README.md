@@ -77,14 +77,6 @@
 ---
 
 ## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asan-11&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asan-11&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asan-11&layout=compact&theme=tokyonight" />
-</p>
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
 ---
