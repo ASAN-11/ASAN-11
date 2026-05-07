@@ -42,8 +42,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 
-![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
@@ -57,7 +57,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-111111?style=for-the-badge&logo=raspberrypi)
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
