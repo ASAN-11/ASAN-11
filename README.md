@@ -77,8 +77,14 @@
 ---
 
 ## 📊 GitHub Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=asan-11&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asan-11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asan-11&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asan-11&layout=compact&theme=tokyonight" />
+</p>
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
 ---
