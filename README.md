@@ -38,12 +38,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
-![CUDA](https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter)
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 
-![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks)
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r)
 
@@ -51,6 +49,7 @@
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-111111?style=for-the-badge&logo=nvidia)
 ![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux)
 
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unrealengine)
@@ -67,8 +66,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum)
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux)
 
 
 ### Domains
