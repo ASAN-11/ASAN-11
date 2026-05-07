@@ -21,6 +21,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp)
+![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
+![CUDA](https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia)
+![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks)
 
 ### Domains
 ![AI](https://img.shields.io/badge/AI%2FML-00ffaa?style=for-the-badge)
