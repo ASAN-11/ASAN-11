@@ -18,8 +18,9 @@
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust)
-![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
 
 ### Domains
 ![AI](https://img.shields.io/badge/AI%2FML-00ffaa?style=for-the-badge)
