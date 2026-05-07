@@ -12,7 +12,7 @@
 💻 Developing scalable systems as an **SDE**  
 🌐 Exploring decentralized ecosystems in **Web3**
 
-   
+---
 
 ## ⚡ Tech Stack
 ### Languages
@@ -60,7 +60,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
 ![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum)
 
-  
 
 ### Domains
 ![AI](https://img.shields.io/badge/AI%2FML-00ffaa?style=for-the-badge)
@@ -72,11 +71,9 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
 
 ## 📫 Connect
 
