@@ -73,10 +73,7 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
-</p>
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
 
 ---
 
