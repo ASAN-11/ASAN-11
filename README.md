@@ -18,18 +18,17 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
 ![C#](https://img.shields.io/badge/c%23-111111?style=for-the-badge&logo=csharp)
-![CUDA](https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia)
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![OCaml](https://img.shields.io/badge/OCaml-111111?style=for-the-badge&logo=ocaml)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 
 
 ### Frameworks • Technologies • Platforms • Tools
@@ -50,6 +49,7 @@
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unrealengine)
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino)
+![CUDA](https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-111111?style=for-the-badge&logo=raspberrypi)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
