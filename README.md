@@ -28,7 +28,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
-![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go)
+![OCaml](https://img.shields.io/badge/OCaml-111111?style=for-the-badge&logo=ocaml)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 ![XML](https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=xml&logoColor=white)
 
