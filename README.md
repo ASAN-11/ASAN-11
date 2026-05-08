@@ -60,16 +60,18 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum)
 
 
-### Domains
+### Professional Domains
 ![AI](https://img.shields.io/badge/AI%2FML-FF6A00?style=for-the-badge)
 ![Quant](https://img.shields.io/badge/Quantitative%20Finance-FF6A00?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-0096ff?style=for-the-badge)
+![Maths](https://img.shields.io/badge/Mathematics-FF6A00?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-FF6A00?style=for-the-badge)
+
+### Avocation Domains
 ![Nanotech](https://img.shields.io/badge/Nanotechnology-0096ff?style=for-the-badge)
 ![Astrospace](https://img.shields.io/badge/Astrospace-0096ff?style=for-the-badge)
 ![Web3](https://img.shields.io/badge/Web3-0096ff?style=for-the-badge)
 ![Electronics](https://img.shields.io/badge/Electronics%20&%20Communication-0096ff?style=for-the-badge)
 ![SDE](https://img.shields.io/badge/Software%20&%20Game%20Dev-0096ff?style=for-the-badge)
-![Maths](https://img.shields.io/badge/Mathematics-0096ff?style=for-the-badge)
 ![Quantum](https://img.shields.io/badge/Quantum%20Engineering-0096ff?style=for-the-badge)
 ![Design](https://img.shields.io/badge/Digital%20Designing-0096ff?style=for-the-badge)
 
