@@ -61,8 +61,8 @@
 
 
 ### Domains
-![AI](https://img.shields.io/badge/AI%2FML-001B3A?style=for-the-badge)
-![Quant](https://img.shields.io/badge/Quantitative%20Finance-001B3A?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI%2FML-FF6A00?style=for-the-badge)
+![Quant](https://img.shields.io/badge/Quantitative%20Finance-FF6A00?style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/Robotics-0096ff?style=for-the-badge)
 ![Nanotech](https://img.shields.io/badge/Nanotechnology-0096ff?style=for-the-badge)
 ![Astrospace](https://img.shields.io/badge/Astrospace-0096ff?style=for-the-badge)
