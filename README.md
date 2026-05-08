@@ -30,7 +30,6 @@
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![OCaml](https://img.shields.io/badge/OCaml-111111?style=for-the-badge&logo=ocaml)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
-![XML](https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=xml&logoColor=white)
 
 
 ### Frameworks • Technologies • Platforms • Tools
