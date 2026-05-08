@@ -74,6 +74,7 @@
 ![SDE](https://img.shields.io/badge/Software%20&%20Game%20Dev-0096ff?style=for-the-badge)
 ![Quantum](https://img.shields.io/badge/Quantum%20Engineering-0096ff?style=for-the-badge)
 ![Design](https://img.shields.io/badge/Digital%20Designing-0096ff?style=for-the-badge)
+![Web2](https://img.shields.io/badge/Web%20Development-0096ff?style=for-the-badge)
 
 ---
 
