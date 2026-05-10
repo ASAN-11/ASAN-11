@@ -65,6 +65,7 @@
 ![Quant](https://img.shields.io/badge/Quantitative%20Finance-FF6A00?style=for-the-badge)
 ![Maths](https://img.shields.io/badge/Mathematics-FF6A00?style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/Robotics-FF6A00?style=for-the-badge)
+![Research Methodology](https://img.shields.io/badge/Research%20Methodology-FF6A00?style=for-the-badge)
 
 ### Avocation Domains
 ![Nanotech](https://img.shields.io/badge/Nanotechnology-0096ff?style=for-the-badge)
