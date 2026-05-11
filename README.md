@@ -82,7 +82,7 @@
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ASAN-11&layout=compact&theme=github_dark)
+![Snake animation](https://github.com/ASAN-11/ASAN-11/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge)
 
