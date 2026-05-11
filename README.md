@@ -76,6 +76,7 @@
 ![Quantum](https://img.shields.io/badge/Quantum%20Engineering-0096ff?style=for-the-badge)
 ![Design](https://img.shields.io/badge/Digital%20Designing-0096ff?style=for-the-badge)
 ![Web2](https://img.shields.io/badge/Web%20Development-0096ff?style=for-the-badge)
+![Autonomous-Energy](https://img.shields.io/badge/Autonomous%20&%20Energy%20Systems-0096ff?style=for-the-badge)
 
 ---
 
