@@ -82,7 +82,7 @@
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ASAN-11=cgre23&layout=compact&theme=dark)](https://github.com/cgre23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&layout=compact&theme=dark)](https://github.com/ASAN-11)
 
 ![](https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge)
 
