@@ -82,8 +82,6 @@
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
-![Snake animation](https://github.com/ASAN-11/ASAN-11/blob/output/github-contribution-grid-snake-dark.svg)
-
 ![](https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&theme=github_dark)
@@ -108,6 +106,8 @@
 - GitHub   : github.com/ASAN-11
 - LinkedIn : linkedin.com/in/meetashishanand
 - X/Twitter : x.com/WhoAshishAnand
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ---
 ### “From nanoscale intelligence to interstellar systems.” 🚀
