@@ -2,16 +2,6 @@
 <img src="https://raw.githubusercontent.com/ASAN-11/ASAN-11/main/banner.png" width="100%" />
 
 # 👋 Hi, I’m Ashish Anand aka ASAN-11.
-<a href="https://cgre23.github.io">
-    <img src="https://img.shields.io/badge/Website-cgre23-red?style=flat-square">
-</a>  
-
-<a href="https://www.linkedin.com/in/christian-grech-phd-77650897">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href='https://scholar.google.com/citations?user=K2E3X4cAAAAJ' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
 
 ## 🚀 About Me
 
@@ -91,6 +81,8 @@
 
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgre23&layout=compact&theme=dark)](https://github.com/cgre23)
 
 ![](https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge)
 
