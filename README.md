@@ -2,12 +2,16 @@
 <img src="https://raw.githubusercontent.com/ASAN-11/ASAN-11/main/banner.png" width="100%" />
 
 # 👋 Hi, I’m Ashish Anand aka ASAN-11.
+<a href="https://cgre23.github.io">
+    <img src="https://img.shields.io/badge/Website-cgre23-red?style=flat-square">
+</a>  
 
-<p align="left">
-<a href="https://github.com/cgre23">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=800&height=90&lines=Christian+Grech;Software+Engineer+%7C+Data+Scientist+%7C+Researcher;Quantum+Sensing+%7C+AI+%7C+NLP" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/christian-grech-phd-77650897">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-</p>
+<a href='https://scholar.google.com/citations?user=K2E3X4cAAAAJ' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
 
 ## 🚀 About Me
 
