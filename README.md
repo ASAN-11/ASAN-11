@@ -82,12 +82,11 @@
 ## 📊 GitHub Statistics
 ![Streak](https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&layout=compact&theme=dark)](https://github.com/ASAN-11)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&layout=compact&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASAN-11&theme=github_dark)
 
 ---
 
