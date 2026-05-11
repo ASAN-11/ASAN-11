@@ -2,7 +2,6 @@
 <img src="https://raw.githubusercontent.com/ASAN-11/ASAN-11/main/banner.png" width="100%" />
 
 # 👋 Hi, I’m Ashish Anand aka ASAN-11.
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,100:0575E6&height=4"/>
 
 ## 🚀 About Me
 
@@ -111,5 +110,3 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ### “From nanoscale intelligence to interstellar systems.” 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ASAN-11&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
