@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Ashish Anand aka ASAN-11.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=12,20,24,30"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🚀 About Me
 
