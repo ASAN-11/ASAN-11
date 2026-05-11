@@ -87,6 +87,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASAN-11&theme=github_dark)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cgre23&show_icons=true&theme=dark)](https://github.com/cgre23)
+
 ---
 
 ## 🏆 Competitive Programming
