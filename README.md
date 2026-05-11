@@ -2,8 +2,7 @@
 <img src="https://raw.githubusercontent.com/ASAN-11/ASAN-11/main/banner.png" width="100%" />
 
 # 👋 Hi, I’m Ashish Anand aka ASAN-11.
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,100:0575E6&height=4"/>
 
 ## 🚀 About Me
 
