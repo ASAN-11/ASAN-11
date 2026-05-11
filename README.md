@@ -3,6 +3,12 @@
 
 # 👋 Hi, I’m Ashish Anand aka ASAN-11.
 
+<p align="left">
+<a href="https://github.com/cgre23">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=800&height=90&lines=Christian+Grech;Software+Engineer+%7C+Data+Scientist+%7C+Researcher;Quantum+Sensing+%7C+AI+%7C+NLP" alt="Typing SVG" />
+</a>
+</p>
+
 ## 🚀 About Me
 
 📈 Exploring **Quantitative Finance & Mathematical Modeling**  
