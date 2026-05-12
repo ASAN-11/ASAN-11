@@ -38,6 +38,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
 ![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111111?style=for-the-badge&logo=llamaindex)
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 ![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r)
