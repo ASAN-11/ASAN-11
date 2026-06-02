@@ -79,6 +79,7 @@
 ![Web2](https://img.shields.io/badge/Web%20Development-0096ff?style=for-the-badge)
 ![Autonomous-Energy](https://img.shields.io/badge/Autonomous%20&%20Energy%20Systems-0096ff?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cyber%20Security-0096ff?style=for-the-badge)
+![IT](https://img.shields.io/badge/Information%20Technology-0096ff?style=for-the-badge)
 
 ---
 
