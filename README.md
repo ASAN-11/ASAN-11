@@ -108,9 +108,9 @@
 
 ## 📫 Connect
 
-- [![GitHub](https://shields.io)](https://github.com/ASAN-11)
-- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/meetashishanand/)
-- [![X](https://shields.io)](https://x.com/WhoAshishAnand)
+- [![GitHub](https://github.io)](https://github.com/ASAN-11)
+- [![LinkedIn](https://linkedin.in)](https://www.linkedin.com/in/meetashishanand/)
+- [![X](https://x.com)](https://x.com/WhoAshishAnand)
 - [🌐 Visit My Profile](https://theashishanand.netlify.app)
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
