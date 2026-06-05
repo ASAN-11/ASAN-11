@@ -108,9 +108,9 @@
 
 ## 📫 Connect
 
-- GitHub   : github.com/ASAN-11
-- LinkedIn : linkedin.com/in/meetashishanand
-- X/Twitter : x.com/WhoAshishAnand
+- [🌐 GitHub](https://github.com/ASAN-11)
+- [🌐 LinkedIn](https://www.linkedin.com/in/meetashishanand/)
+- [🌐 X](https://x.com/WhoAshishAnand)
 - [🌐 Visit My Profile](https://theashishanand.netlify.app)
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
