@@ -82,6 +82,11 @@
 ![Autonomous-Energy](https://img.shields.io/badge/Autonomous%20&%20Energy%20Systems-0096ff?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cyber%20Security-0096ff?style=for-the-badge)
 ![IT](https://img.shields.io/badge/Information%20Technology-0096ff?style=for-the-badge)
+![Aerospace](https://img.shields.io/badge/Aerospace-0096ff?style=for-the-badge)
+![Automotives](https://img.shields.io/badge/Automotives-0096ff?style=for-the-badge)
+![Core-Mech](https://img.shields.io/badge/Core%20Mechanics-0096ff?style=for-the-badge)
+![Engg-Simulate](https://img.shields.io/badge/Engineering%Simulations-0096ff?style=for-the-badge)
+![Biotech](https://img.shields.io/badge/Biotechnology-0096ff?style=for-the-badge)
 
 ---
 
