@@ -65,6 +65,7 @@
 
 ### Professional Domains
 ![AI](https://img.shields.io/badge/AI%2FML-FF6A00?style=for-the-badge)
+![AI](https://img.shields.io/badge/FinTech-FF6A00?style=for-the-badge)
 ![Quant](https://img.shields.io/badge/Quantitative%20Finance-FF6A00?style=for-the-badge)
 ![Maths](https://img.shields.io/badge/Mathematics-FF6A00?style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/Robotics-FF6A00?style=for-the-badge)
