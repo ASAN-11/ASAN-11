@@ -43,7 +43,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 ![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r)
-![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
