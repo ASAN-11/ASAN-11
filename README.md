@@ -12,6 +12,7 @@
 💻 Developing scalable systems as an **SDE**  
 🌐 Exploring decentralized ecosystems in **Web3 & Cybersecurity**  
 ⚗️ Connecting **New-Gen Technology** in exploration of **Core Science**
+🌌 Shaping **STEM & Fundamental Sciences** for Universal Wefare
 
 
 ---
