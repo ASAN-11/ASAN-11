@@ -118,22 +118,14 @@
 
 ## 📫 Connect
 
-<a href="https://github.com/ASAN-11" style="none">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/meetashishanand/" style="none">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-&nbsp;
-<a href="https://x.com/WhoAshishAnand" style="none">
-  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://theashishanand.netlify.app/" style="none">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"/>
-</a>
-
+<table>
+<tr>
+<td><a href="https://github.com/ASAN-11"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a></td>
+<td><a href="https://www.linkedin.com/in/meetashishanand/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+<td><a href="https://x.com/WhoAshishAnand"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"></a></td>
+<td><a href="https://theashishanand.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"></a></td>
+</tr>
+</table>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
