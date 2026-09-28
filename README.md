@@ -121,18 +121,19 @@
 <a href="https://github.com/ASAN-11">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/meetashishanand/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://x.com/WhoAshishAnand">
   <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://theashishanand.netlify.app/">
-  <img src="https://img.shields.io/badge/Visit_My_Profile-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"/>
 </a>
+
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
