@@ -122,27 +122,25 @@
 - [💼 LinkedIn](https://www.linkedin.com/in/meetashishanand/)
 - [🌍 X](https://x.com/WhoAshishAnand)
 - [📍 Visit My Profile](https://theashishanand.netlify.app)
-<p align="center">
-  <a href="https://github.com/ASAN-11">
-    <img src="https://cdn.simpleicons.org/github/white" width="32"/>
-    <br>
-    <sub>GitHub</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/meetashishanand/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32"/>
-    <br>
-    <sub>LinkedIn</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ASAN-11">
+  <img src="https://cdn.simpleicons.org/github/white" width="20"/> GitHub
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
-  <a href="https://x.com/WhoAshishAnand">
-    <img src="https://cdn.simpleicons.org/x/white" width="32"/>
-    <br>
-    <sub>X</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/meetashishanand/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> LinkedIn
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://x.com/WhoAshishAnand">
+  <img src="https://cdn.simpleicons.org/x/white" width="20"/> X
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://theashishanand.netlify.app/">
+  <img src="https://cdn.simpleicons.org/googlechrome/white" width="20"/> Portfolio
+</a>
 
   <a href="https://theashishanand.netlify.app/">
     <img src="https://cdn.simpleicons.org/googlechrome/white" width="32"/>
