@@ -99,7 +99,6 @@
 ![](https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&theme=github_dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
 
 ---
 
