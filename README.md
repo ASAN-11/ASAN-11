@@ -102,7 +102,7 @@
 
 ---
 
-## 🏆 Competitive Programming
+## 🏆 Digital Ecosystem
 - Codeforces
 - LeetCode
 - AtCoder
@@ -113,6 +113,8 @@
 - HackerRank
 - Quantiacs
 - Numerai
+- MLH
+- DEV
 
 ---
 
