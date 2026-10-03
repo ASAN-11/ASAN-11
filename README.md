@@ -115,7 +115,7 @@
 - Quantiacs
 - Numerai
 - MLH
-- DEV
+- DEV Community
 
 ---
 
