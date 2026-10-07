@@ -109,7 +109,7 @@
 - AIcrowd
 - Project Euler
 - ICPC
-- WQB
+- WQ
 - Kaggle
 - HackerRank
 - Quantiacs
