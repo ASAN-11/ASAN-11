@@ -102,6 +102,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Akarshjha03?ext=contest" alt="LeetCode Card for Akarshjha03">
+</p>
+
+---
+
 ## 🏆 Digital Ecosystem
 - Codeforces
 - LeetCode
