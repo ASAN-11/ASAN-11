@@ -94,7 +94,7 @@
 
 ## 📊 GitHub Statistics
 
- <p align="center">
+ <p>
     <img src="https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight" alt="GitHub Streak"/>  
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ASAN-11&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight" alt="GitHub Profile Details"/>
