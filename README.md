@@ -105,12 +105,8 @@
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
 <p align="center">
-  <a href="https://github.com/ASAN-11">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ASAN-11&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/ASAN-11">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
 </p>
 
 ---
