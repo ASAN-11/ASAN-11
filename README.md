@@ -94,42 +94,17 @@
 
 ## 📊 GitHub Statistics
 
-      <a href="https://github.com/ASAN-11">
-        <img
-          src="https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight"
-          alt="GitHub Streak"
-        />
-      </a>
+<img src="https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight" alt="GitHub Streak"/>
       
-      <img src="https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  
-      <a href="https://github.com/ASAN-11">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&theme=github_dark"
-          alt="Repos Per Language"
-        />
-      </a>
+<img src="https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&theme=github_dark" alt="Repos Per Language"/>
 
-      <a href="https://github.com/ASAN-11">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight"
-          alt="GitHub Profile Details"
-        />
-      </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight" alt="GitHub Profile Details"/>
   
-      <a href="https://github.com/ASAN-11">
-        <img
-          src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ASAN-11&show_icons=true&count_private=true&theme=tokyonight"
-          alt="GitHub Stats"
-        />
-      </a>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ASAN-11&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
 
-      <a href="https://github.com/ASAN-11">
-        <img
-          src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&langs_count=8&layout=compact&theme=tokyonight"
-          alt="Top Languages"
-        />
-      </a>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
 ---
 
