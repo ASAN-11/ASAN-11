@@ -100,7 +100,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight" alt="GitHub Profile Details"/>
   <br>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&layout=compact&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&layout=compact&theme=tokyonight" alt="Repos Per Language"/>
   <br>
     <img src="https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
