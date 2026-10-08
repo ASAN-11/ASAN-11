@@ -105,7 +105,7 @@
   <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&layout=compact&theme=tokyonight" alt="Repos Per Language"/>
   <br>
-    <img src="https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=ASAN-11&theme=tokyonight" alt="Profile Views"/>
 </p>
 
 ---
