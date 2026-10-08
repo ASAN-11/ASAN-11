@@ -96,10 +96,13 @@
 
  <p>
     <img src="https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight" alt="GitHub Streak"/>  
+  <br>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ASAN-11&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight" alt="GitHub Profile Details"/>
   <br>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asan-11&layout=compact&theme=tokyonight" alt="Repos Per Language"/>
   <br>
     <img src="https://komarev.com/ghpvc/?username=ASAN-11&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
