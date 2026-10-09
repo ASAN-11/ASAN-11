@@ -128,7 +128,7 @@
     <img src="https://img.shields.io/badge/Kaggle-87CEEB?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile">
   </a>
  <a href="https://atcoder.jp/users/ashishanand" target="_blank">
-    <img src="https://img.shields.io/badge/ICPC-0000FF?style=for-the-badge&logo=icpc&logoColor=white" alt="ICPC Profile">
+    <img src="https://img.shields.io/badge/DEV?style=for-the-badge&logo=dev&logoColor=white" alt="DEV Profile">
   </a>
 </p>
 
