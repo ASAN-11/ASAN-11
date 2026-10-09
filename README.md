@@ -98,9 +98,7 @@
     <img src="https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight" alt="GitHub Streak"/>  
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ASAN-11&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
   <br>
-    <div style="border: 1px solid white; border-radius: 8px; padding: 4px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight" alt="GitHub Profile Details"/>
-    </div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight" alt="GitHub Profile Details"/>
   <br>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br>
@@ -117,8 +115,14 @@
   <img src="https://leetcard.jacoblin.cool/ASAN-11?ext=contest" alt="LeetCode Card for ASAN-11">
 </p>
 <p align="center">
-  <a href="https://www.kaggle.com/myselfashishanand">
-    <img alt="Kaggle progress" src="https://<your-worker>.workers.dev/card.svg?theme=light">
+  <a href="https://www.codeforces.com/users/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-5B4638?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile">
+  </a>
+  <a href="https://leetcode.com/u/dev_Akarsh1722/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
+  </a>
+  <a href="https://www.hackerrank.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
   </a>
 </p>
 
