@@ -116,7 +116,7 @@
 </p>
 <p align="center">
   <a href="https://www.kaggle.com/myselfashishanand">
-    <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?myselfashishanand" width="48%" alt="Kaggle Stats"/>
+    <img alt="Kaggle progress" src="https://<your-worker>.workers.dev/card.svg?theme=light">
   </a>
 </p>
 
