@@ -120,6 +120,15 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ASAN-11?ext=contest" alt="LeetCode Card for ASAN-11">
 </p>
+<p align="center">
+  <a href="https://leetcode.com/ASAN-11">
+    <img src="https://leetcard.jacoblin.cool/ASAN-11?theme=dark&font=JetBrains%20Mono&border=1" width="48%" alt="LeetCode Stats"/>
+  </a>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+    <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?YOUR_KAGGLE_USERNAME" width="48%" alt="Kaggle Stats"/>
+  </a>
+</p>
+
 
 ---
 
