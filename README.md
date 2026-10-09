@@ -125,7 +125,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
   </a>
  <a href="https://atcoder.jp/users/ashishanand" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-2EC866?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder Profile">
+    <img src="https://img.shields.io/badge/Kaggle-2EC866?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile">
   </a>
 </p>
 
