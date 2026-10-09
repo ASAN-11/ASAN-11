@@ -98,13 +98,7 @@
     <img src="https://streak-stats.demolab.com/?user=asan-11&theme=tokyonight" alt="GitHub Streak"/>  
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ASAN-11&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
   <br>
-    <table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight" alt="GitHub Profile Details"/>
-    </td>
-  </tr>
-</table>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAN-11&theme=tokyonight" alt="GitHub Profile Details"/>
   <br>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ASAN-11&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br>
@@ -121,11 +115,8 @@
   <img src="https://leetcard.jacoblin.cool/ASAN-11?ext=contest" alt="LeetCode Card for ASAN-11">
 </p>
 <p align="center">
-  <a href="https://leetcode.com/ASAN-11">
-    <img src="https://leetcard.jacoblin.cool/ASAN-11?theme=dark&font=JetBrains%20Mono&border=1" width="48%" alt="LeetCode Stats"/>
-  </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
-    <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?YOUR_KAGGLE_USERNAME" width="48%" alt="Kaggle Stats"/>
+  <a href="https://www.kaggle.com/myselfashishanand">
+    <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?myselfashishanand" width="48%" alt="Kaggle Stats"/>
   </a>
 </p>
 
