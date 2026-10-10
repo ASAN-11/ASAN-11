@@ -62,6 +62,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
 ![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
 
 
 ### Professional Domains
