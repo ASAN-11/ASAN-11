@@ -63,6 +63,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
 ![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva)
 
 
 ### Professional Domains
