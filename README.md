@@ -65,6 +65,7 @@
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama)
 ![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor)
 
 
 
