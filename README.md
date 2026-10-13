@@ -33,6 +33,7 @@
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![XML](https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=xml)
+![Basic](https://img.shields.io/badge/Basic-111111?style=for-the-badge&logo=basic)
 
 
 ### Frameworks • Technologies • Platforms • Tools
