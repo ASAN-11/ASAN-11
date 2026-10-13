@@ -64,6 +64,8 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama)
+![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude)
+
 
 
 ### Professional Domains
