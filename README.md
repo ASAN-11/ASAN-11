@@ -27,10 +27,10 @@
 ![CSS3](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
 ![C#](https://img.shields.io/badge/c%23-111111?style=for-the-badge&logo=csharp)
 ![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity)
-![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=matlab)
 ![OCaml](https://img.shields.io/badge/OCaml-111111?style=for-the-badge&logo=ocaml)
 ![C](https://img.shields.io/badge/c-111111?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java)
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![XML](https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=xml)
 
