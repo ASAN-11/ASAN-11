@@ -69,6 +69,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor)
 ![Replit](https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-111111?style=for-the-badge&logo=notebooklm)
 
 
 
