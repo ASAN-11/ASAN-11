@@ -68,7 +68,7 @@
 ![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor)
 ![Replit](https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=chatgpt)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai)
 
 
 
