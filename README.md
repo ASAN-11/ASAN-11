@@ -70,7 +70,7 @@
 ![Replit](https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-111111?style=for-the-badge&logo=notebooklm)
-![Grok](https://img.shields.io/badge/Grok-111111?style=for-the-badge&logo=grok)
+![Spyder](https://img.shields.io/badge/Spyder-111111?style=for-the-badge&logo=spyder)
 
 
 
