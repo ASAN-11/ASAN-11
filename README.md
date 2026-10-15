@@ -70,7 +70,7 @@
 ![Replit](https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-111111?style=for-the-badge&logo=notebooklm)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=aws)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 
 
 
