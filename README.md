@@ -71,7 +71,7 @@
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-111111?style=for-the-badge&logo=notebooklm)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=gemini)
+![Perplexity](https://img.shields.io/badge/Perplexity-111111?style=for-the-badge&logo=perplexity)
 
 
 
