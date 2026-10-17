@@ -126,7 +126,7 @@
 </p>
 <p align="center">
   <a href="https://www.codeforces.com/users/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-3264A8?style=for-the-badge&logo=codeforces&logoColor=red" alt="Codeforces Profile">
+    <img src="https://img.shields.io/badge/Codeforces-0C2F5E?style=for-the-badge&logo=codeforces&logoColor=red" alt="Codeforces Profile">
   </a>
   <a href="https://leetcode.com/u/dev_Akarsh1722/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Profile">
