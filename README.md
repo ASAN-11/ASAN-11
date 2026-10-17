@@ -137,6 +137,9 @@
  <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle Profile">
   </a>
+ <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
+    <img src="https://img.shields.io/badge/Numerai-222222?style=for-the-badge&logo=numerai&logoColor=black" alt="Numerai Profile">
+  </a>
 </p>
 
 
