@@ -143,6 +143,9 @@
  <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
     <img src="https://img.shields.io/badge/DEV-111111?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Profile">
   </a>
+ <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile">
+  </a>
 </p>
 
 ---
