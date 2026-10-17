@@ -128,13 +128,13 @@
   <a href="https://www.codeforces.com/users/your_username" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-0C2F5E?style=for-the-badge&logo=codeforces&logoColor=red" alt="Codeforces Profile">
   </a>
-  <a href="https://leetcode.com/u/dev_Akarsh1722/" target="_blank">
+  <a href="https://leetcode.com/u/ASAN-11/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Profile">
   </a>
   <a href="https://www.hackerrank.com/your_username" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-222222?style=for-the-badge&logo=hackerrank&logoColor=green" alt="HackerRank Profile">
   </a>
- <a href="https://atcoder.jp/users/ashishanand" target="_blank">
+ <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile">
   </a>
 </p>
