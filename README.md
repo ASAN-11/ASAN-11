@@ -135,7 +135,7 @@
     <img src="https://img.shields.io/badge/HackerRank-222222?style=for-the-badge&logo=hackerrank&logoColor=green" alt="HackerRank Profile">
   </a>
  <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle Profile">
   </a>
 </p>
 
