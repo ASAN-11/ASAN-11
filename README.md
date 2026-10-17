@@ -138,10 +138,12 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle Profile">
   </a>
  <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
-    <img src="https://img.shields.io/badge/MLH-222222?style=for-the-badge&logo=majorleaguehacking&logoColor=black" alt="MLH Profile">
+    <img src="https://img.shields.io/badge/MLH-FFFFFF?style=for-the-badge&logo=majorleaguehacking&logoColor=red" alt="MLH Profile">
+  </a>
+ <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
+    <img src="https://img.shields.io/badge/DEV-111111?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Profile">
   </a>
 </p>
-
 
 ---
 
