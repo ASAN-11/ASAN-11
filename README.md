@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/badge/Codeforces-5B4638?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile">
   </a>
   <a href="https://leetcode.com/u/dev_Akarsh1722/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Profile">
   </a>
   <a href="https://www.hackerrank.com/your_username" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
