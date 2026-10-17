@@ -137,13 +137,13 @@
  <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle Profile">
   </a>
- <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
+ <a href="https://www.mlh.com" target="_blank">
     <img src="https://img.shields.io/badge/MLH-FFFFFF?style=for-the-badge&logo=majorleaguehacking&logoColor=red" alt="MLH Profile">
   </a>
- <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
+ <a href="https://dev.to/ashishanand" target="_blank">
     <img src="https://img.shields.io/badge/DEV-111111?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Profile">
   </a>
- <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
+ <a href="https://www.researchgate.net" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile">
   </a>
 </p>
