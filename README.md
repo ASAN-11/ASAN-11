@@ -138,7 +138,7 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle Profile">
   </a>
  <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
-    <img src="https://img.shields.io/badge/ICPC-222222?style=for-the-badge&logo=icpc&logoColor=black" alt="Numerai Profile">
+    <img src="https://img.shields.io/badge/ResearchGate-222222?style=for-the-badge&logo=reasearchgate&logoColor=black" alt="ResearchGate Profile">
   </a>
 </p>
 
@@ -152,6 +152,7 @@
 - AIcrowd
 - Project Euler
 - ICPC
+- GitHub
 - WQB
 - Kaggle
 - HackerRank
