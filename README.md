@@ -130,7 +130,7 @@
     <img src="https://img.shields.io/badge/Codeforces-0C2F5E?style=for-the-badge&logo=codeforces&logoColor=red" alt="Codeforces Profile">
   </a>
   <a href="https://leetcode.com/u/ASAN-11/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Profile">
+    <img src="https://img.shields.io/badge/LeetCode-171716?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Profile">
   </a>
   <a href="https://www.hackerrank.com/your_username" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-222222?style=for-the-badge&logo=hackerrank&logoColor=green" alt="HackerRank Profile">
@@ -142,7 +142,7 @@
     <img src="https://img.shields.io/badge/MLH-FFFFFF?style=for-the-badge&logo=majorleaguehacking&logoColor=red" alt="MLH Profile">
   </a>
  <a href="https://dev.to/ashishanand" target="_blank">
-    <img src="https://img.shields.io/badge/DEV-111111?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Profile">
+    <img src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Profile">
   </a>
  <a href="https://www.researchgate.net" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile">
