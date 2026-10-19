@@ -34,6 +34,7 @@
 ![Julia](https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia)
 ![XML](https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=xml)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
 ### Frameworks • Technologies • Platforms • Tools
