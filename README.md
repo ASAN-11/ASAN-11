@@ -74,7 +74,7 @@
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-111111?style=for-the-badge&logo=notebooklm)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![Perplexity](https://img.shields.io/badge/Perplexity-111111?style=for-the-badge&logo=perplexity)
-![Powershell](https://img.shields.io/badge/Powershell-111111?style=for-the-badge&logo=powershell)
+![Shell](https://img.shields.io/badge/Shell-111111?style=for-the-badge&logo=shell)
 
 
 
