@@ -75,7 +75,7 @@
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![Perplexity](https://img.shields.io/badge/Perplexity-111111?style=for-the-badge&logo=perplexity)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu)
-![Tiger Data](https://img.shields.io/badge/Tiger%20Data-111111?style=for-the-badge&logo=tigerdata)
+![Solana](https://img.shields.io/badge/Solana-111111?style=for-the-badge&logo=solana)
 
 
 ### Professional Domains
