@@ -102,6 +102,7 @@
 ![Core-Mech](https://img.shields.io/badge/Core%20Mechanics-0096ff?style=for-the-badge)
 ![Engg-Simulate](https://img.shields.io/badge/Engineering%20Simulations-0096ff?style=for-the-badge)
 ![Biotech](https://img.shields.io/badge/Biotechnology-0096ff?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud%20Computing-0096ff?style=for-the-badge)
 
 ---
 
