@@ -79,7 +79,7 @@
 ![Auth0](https://img.shields.io/badge/Auth0-111111?style=for-the-badge&logo=auth0)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111111?style=for-the-badge&logo=googlecloud)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
-![Nelify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify)
+![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify)
 
 
 ### Professional Domains
