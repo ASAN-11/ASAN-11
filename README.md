@@ -80,7 +80,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111111?style=for-the-badge&logo=googlecloud)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify)
-![Tableau](https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau)
+![MS Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure)
 
 
 ### Professional Domains
