@@ -7,7 +7,7 @@
 
 📈 Exploring **Quantitative Finance & Mathematical Modeling**  
 🤖 Building with **AI/ML, Robotics & Intelligent Systems**  
-🛰️ Intrested in **Astrospace Engineering & Space Technology**  
+🛰️ Interested in **Astrospace Engineering & Space Technology**  
 ⚛️ Researching **Nanotechnology & Advanced Materials**  
 💻 Developing scalable systems as an **SDE**  
 🌐 Exploring decentralized ecosystems in **Web3 & Cybersecurity**  
