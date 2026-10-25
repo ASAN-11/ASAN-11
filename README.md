@@ -174,7 +174,7 @@
 - Numerai
 - MLH
 - DEV
-- NASA SAC
+- NASA Space Apps Challenges
 
 ---
 
