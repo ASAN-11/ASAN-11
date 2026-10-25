@@ -80,7 +80,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111111?style=for-the-badge&logo=googlecloud)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices)
 
 
 ### Professional Domains
