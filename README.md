@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 📈 Exploring **Quantitative Finance & Mathematical Modeling**  
-🤖 uilding with **AI/ML, Robotics & Intelligent Systems**  
+🤖 Building with **AI/ML, Robotics & Intelligent Systems**  
 🛰️ Intrested in **Astrospace Engineering & Space Technology**  
 ⚛️ Researching **Nanotechnology & Advanced Materials**  
 💻 Developing scalable systems as an **SDE**  
