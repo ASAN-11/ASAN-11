@@ -173,7 +173,7 @@
 - Quantiacs
 - Numerai
 - MLH
-- DEV
+- DEV Community
 - NASA Space Apps Challenge
 
 ---
