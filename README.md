@@ -175,6 +175,7 @@
 - MLH
 - DEV Community
 - NASA Space Apps Challenge
+- ETHGlobal
 
 ---
 
