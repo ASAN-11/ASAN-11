@@ -177,6 +177,7 @@
 - NASA Space Apps Challenge
 - ETHGlobal
 - CTFtime
+- IBM Quantum
 
 ---
 
