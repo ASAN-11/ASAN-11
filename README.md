@@ -82,7 +82,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify)
 ![Polygon](https://img.shields.io/badge/Polygon-111111?style=for-the-badge&logo=polygon)
 ![NASA](https://img.shields.io/badge/NASA-111111?style=for-the-badge&logo=nasa)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions)
 
 
 ### Professional Domains
