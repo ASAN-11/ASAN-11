@@ -81,7 +81,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify)
 ![Polygon](https://img.shields.io/badge/Polygon-111111?style=for-the-badge&logo=polygon)
-![NASA](https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+![NASA](https://img.shields.io/badge/NASA-111111?style=for-the-badge&logo=nasa&logoColor=white)
 
 
 ### Professional Domains
