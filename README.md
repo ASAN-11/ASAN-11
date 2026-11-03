@@ -184,6 +184,23 @@
 - CTFtime
 - IBM Quantum
 
+  <div align="center">
+
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://atcoder.jp/">
+  <img src="https://img.shields.io/badge/AtCoder-Algorithmic%20Contests-333333?style=flat-square&logo=atcoder&logoColor=white" />
+</a>
+<a href="https://www.aicrowd.com/">
+  <img src="https://img.shields.io/badge/AIcrowd-AI%20Challenges-138B78?style=flat-square&logo=aicrowd&logoColor=white" />
+</a>
+
+</div>
+
 ---
 
 ## 📫 Connect
