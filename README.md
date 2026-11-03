@@ -184,20 +184,11 @@
 - CTFtime
 - IBM Quantum
 
-<div align="center">
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-172B40?style=for-the-badge&logo=codeforces&logoColor=60A5FA" />
-</a>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-33291A?style=for-the-badge&logo=leetcode&logoColor=FBBF24" />
-</a>
-<a href="https://atcoder.jp/">
-<img src="https://img.shields.io/badge/AtCoder-Algorithms-282828?style=for-the-badge&logo=atcoder&logoColor=FFFFFF" />
-</a>
-<a href="https://www.aicrowd.com/">
-<img src="https://img.shields.io/badge/AIcrowd-AI%20%2F%20ML-15352F?style=for-the-badge&logo=aicrowd&logoColor=5EEAD4" />
-</a>
+<p align="center">
+  <img src="digital-ecosystem.svg"
+       width="100%"
+       alt="Digital Ecosystem Platform Grid"/>
+</p>
 
 </div>
 
