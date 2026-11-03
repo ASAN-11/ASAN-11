@@ -82,6 +82,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify)
 ![Polygon](https://img.shields.io/badge/Polygon-111111?style=for-the-badge&logo=polygon)
 ![NASA](https://img.shields.io/badge/NASA-111111?style=for-the-badge&logo=nasa)
+![arxiv](https://img.shields.io/badge/arXiv-111111?style=for-the-badge&logo=arxiv)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111111?style=for-the-badge&logo=huggingface)
 
