@@ -114,6 +114,7 @@
 ![Biotech](https://img.shields.io/badge/Biotechnology-0096ff?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud%20Computing-0096ff?style=for-the-badge)
 ![Chemistry](https://img.shields.io/badge/Chemistry-0096ff?style=for-the-badge)
+![Physics](https://img.shields.io/badge/Physics-0096ff?style=for-the-badge)
 
 ---
 
