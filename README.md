@@ -184,14 +184,6 @@
 - CTFtime
 - IBM Quantum
 
-<p align="center">
-  <img src="digital-ecosystem.svg"
-       width="100%"
-       alt="Digital Ecosystem Platform Grid"/>
-</p>
-
-</div>
-
 ---
 
 ## 📫 Connect
