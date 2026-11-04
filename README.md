@@ -163,6 +163,7 @@
 <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://www.spaceappschallenge.org/" target="_blank"><img src="https://img.shields.io/badge/NASA_Space_Apps-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" /></a>
 <a href="https://www.researchgate.net" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"></a>
+<a href="https://www.twitch.com" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://ethglobal.com/" target="_blank"><img src="https://img.shields.io/badge/ETHGlobal-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
 <a href="https://ctftime.org/" target="_blank"><img src="https://img.shields.io/badge/CTFtime-303030?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 <a href="https://quantum.ibm.com/" target="_blank"><img src="https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=internationalbusinessmachines&logoColor=white" /></a>
