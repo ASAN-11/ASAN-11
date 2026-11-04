@@ -164,7 +164,7 @@
 <a href="https://www.researchgate.net" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"></a>
 <a href="https://ethglobal.com/" target="_blank"><img src="https://img.shields.io/badge/ETHGlobal-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
 <a href="https://ctftime.org/" target="_blank"><img src="https://img.shields.io/badge/CTFtime-303030?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
-<a href="https://quantum.ibm.com/" target="_blank"><img src="https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=ibmquantum&logoColor=white" /></a>
+<a href="https://quantum.ibm.com/" target="_blank"><img src="https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=internationalbusinessmachinescorporation&logoColor=white" /></a>
 <a href="https://www.awwwards.com/" target="_blank"><img src="https://img.shields.io/badge/Awwwards-111111?style=for-the-badge&logo=awwwards&logoColor=white" /></a>
 
 </div>
