@@ -159,7 +159,7 @@
 <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.quantiacs.com/" target="_blank"><img src="https://img.shields.io/badge/Quantiacs-171717?style=for-the-badge&logoColor=white" /></a>
 <a href="https://numer.ai/" target="_blank"><img src="https://img.shields.io/badge/Numerai-222222?style=for-the-badge&logoColor=white" /></a>
-<a href="https://mlh.io/" target="_blank"><img src="https://img.shields.io/badge/MLH-FF6B35?style=for-the-badge&logo=majorleaguehacking&logoColor=white" /></a>
+<a href="https://mlh.io/" target="_blank"><img src="https://img.shields.io/badge/MLH-FFFFFF?style=for-the-badge&logo=majorleaguehacking&logoColor=red" /></a>
 <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://www.spaceappschallenge.org/" target="_blank"><img src="https://img.shields.io/badge/NASA_Space_Apps-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" /></a>
 <a href="https://www.researchgate.net" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"></a>
