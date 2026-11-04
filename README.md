@@ -139,29 +139,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ASAN-11?ext=contest" alt="LeetCode Card for ASAN-11">
 </p>
-<p align="center">
-  <a href="https://www.codeforces.com/users/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-0C2F5E?style=for-the-badge&logo=codeforces&logoColor=red" alt="Codeforces Profile">
-  </a>
- <a href="https://dev.to/ashishanand" target="_blank">
-    <img src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Profile">
-  </a>
-  <a href="https://www.hackerrank.com/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-222222?style=for-the-badge&logo=hackerrank&logoColor=green" alt="HackerRank Profile">
-  </a>
- <a href="https://www.kaggle.com/myselfashishanand" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle Profile">
-  </a>
- <a href="https://www.mlh.com" target="_blank">
-    <img src="https://img.shields.io/badge/MLH-FFFFFF?style=for-the-badge&logo=majorleaguehacking&logoColor=red" alt="MLH Profile">
-  </a>
- <a href="https://leetcode.com/u/ASAN-11/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-171716?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Profile">
-  </a>
- <a href="https://www.researchgate.net" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile">
-  </a>
-</p>
 
 ---
 
@@ -184,6 +161,7 @@
 <a href="https://mlh.io/" target="_blank"><img src="https://img.shields.io/badge/MLH-FF6B35?style=for-the-badge&logoColor=white" /></a>
 <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://www.spaceappschallenge.org/" target="_blank"><img src="https://img.shields.io/badge/NASA_Space_Apps-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" /></a>
+<a href="https://www.researchgate.net" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"></a>
 <a href="https://ethglobal.com/" target="_blank"><img src="https://img.shields.io/badge/ETHGlobal-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
 <a href="https://ctftime.org/" target="_blank"><img src="https://img.shields.io/badge/CTFtime-303030?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 <a href="https://quantum.ibm.com/" target="_blank"><img src="https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=ibm&logoColor=white" /></a>
