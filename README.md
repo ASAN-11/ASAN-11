@@ -170,6 +170,9 @@
 <a href="https://www.awwwards.com/" target="_blank"><img src="https://img.shields.io/badge/Awwwards-111111?style=for-the-badge&logo=awwwards&logoColor=white" /></a>
 <a href="https://www.discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.scholar.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=blue" /></a>
+<a href="https://www.scholar.google.com/" target="_blank"><img src="https://img.shields.io/badge/IEEE-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=blue" /></a>
+<a href="https://www.scholar.google.com/" target="_blank"><img src="https://img.shields.io/badge/ELSEVIER-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=blue" /></a>
+
 
 </div>
 
