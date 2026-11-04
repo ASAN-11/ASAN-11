@@ -166,25 +166,31 @@
 ---
 
 ## 🏆 Digital Ecosystem
-- Codeforces
-- LeetCode
-- AtCoder
-- AIcrowd
-- Project Euler
-- ICPC
-- GitHub
-- WQB
-- Kaggle
-- HackerRank
-- Quantiacs
-- Numerai
-- MLH
-- DEV Community
-- NASA Space Apps Challenge
-- ETHGlobal
-- CTFtime
-- IBM Quantum
-- Awwwards
+
+<div align="center">
+
+<a href="https://codeforces.com/" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://atcoder.jp/" target="_blank"><img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
+<a href="https://www.aicrowd.com/" target="_blank"><img src="https://img.shields.io/badge/AIcrowd-5B48E8?style=for-the-badge&logo=aicrowd&logoColor=white" /></a>
+<a href="https://projecteuler.net/" target="_blank"><img src="https://img.shields.io/badge/Project_Euler-303030?style=for-the-badge&logo=projecteuler&logoColor=white" /></a>
+<a href="https://icpc.global/" target="_blank"><img src="https://img.shields.io/badge/ICPC-00529B?style=for-the-badge&logo=icpc&logoColor=white" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.worldquant.com/" target="_blank"><img src="https://img.shields.io/badge/WQB-9B7BFF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+<a href="https://www.quantiacs.com/" target="_blank"><img src="https://img.shields.io/badge/Quantiacs-171717?style=for-the-badge&logoColor=white" /></a>
+<a href="https://numer.ai/" target="_blank"><img src="https://img.shields.io/badge/Numerai-222222?style=for-the-badge&logoColor=white" /></a>
+<a href="https://mlh.io/" target="_blank"><img src="https://img.shields.io/badge/MLH-FF6B35?style=for-the-badge&logoColor=white" /></a>
+<a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+<a href="https://www.spaceappschallenge.org/" target="_blank"><img src="https://img.shields.io/badge/NASA_Space_Apps-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" /></a>
+<a href="https://ethglobal.com/" target="_blank"><img src="https://img.shields.io/badge/ETHGlobal-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
+<a href="https://ctftime.org/" target="_blank"><img src="https://img.shields.io/badge/CTFtime-303030?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+<a href="https://quantum.ibm.com/" target="_blank"><img src="https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+<a href="https://www.awwwards.com/" target="_blank"><img src="https://img.shields.io/badge/Awwwards-111111?style=for-the-badge&logo=awwwards&logoColor=white" /></a>
+
+</div>
+
 
 ---
 
