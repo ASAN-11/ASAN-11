@@ -161,7 +161,7 @@
 <a href="https://numer.ai/" target="_blank"><img src="https://img.shields.io/badge/Numerai-222222?style=for-the-badge&logoColor=white" /></a>
 <a href="https://mlh.io/" target="_blank"><img src="https://img.shields.io/badge/MLH-FFFFFF?style=for-the-badge&logo=majorleaguehacking&logoColor=red" /></a>
 <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://www.spaceappschallenge.org/" target="_blank"><img src="https://img.shields.io/badge/NASA_Space_Apps-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" /></a>
+<a href="https://www.spaceappschallenge.org/" target="_blank"><img src="https://img.shields.io/badge/NASA_Space_Apps-0B3D91?style=for-the-badge&logo=nasa&logoColor=red" /></a>
 <a href="https://www.researchgate.net" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"></a>
 <a href="https://www.twitch.com" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://ethglobal.com/" target="_blank"><img src="https://img.shields.io/badge/ETHGlobal-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
@@ -169,6 +169,7 @@
 <a href="https://quantum.ibm.com/" target="_blank"><img src="https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=internationalbusinessmachines&logoColor=white" /></a>
 <a href="https://www.awwwards.com/" target="_blank"><img src="https://img.shields.io/badge/Awwwards-111111?style=for-the-badge&logo=awwwards&logoColor=white" /></a>
 <a href="https://www.discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.scholar.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=blue" /></a>
 
 </div>
 
