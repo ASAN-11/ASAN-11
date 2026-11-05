@@ -171,10 +171,9 @@
 <a href="https://www.discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.scholar.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=blue" /></a>
 <a href="https://www.icml.cc/" target="_blank"><img src="https://img.shields.io/badge/ICML-FFD700?style=for-the-badge&logo=icml&logoColor=white" /></a>
+<a href="https://www.neurips.cc/" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-7F00FF?style=for-the-badge&logo=neurips&logoColor=white" /></a>
 <a href="https://www.ieee.org/" target="_blank"><img src="https://img.shields.io/badge/IEEE-FFFFFF?style=for-the-badge&logo=ieee&logoColor=blue" /></a>
 <a href="https://www.elsevier.com/" target="_blank"><img src="https://img.shields.io/badge/Elsevier-FF4203?style=for-the-badge&logo=elsevier&logoColor=white" /></a>
-
-
 </div>
 
 
