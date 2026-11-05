@@ -167,7 +167,7 @@
 <a href="https://ethglobal.com/" target="_blank"><img src="https://img.shields.io/badge/ETHGlobal-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
 <a href="https://ctftime.org/" target="_blank"><img src="https://img.shields.io/badge/CTFtime-303030?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 <a href="https://quantum.ibm.com/" target="_blank"><img src="https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=internationalbusinessmachines&logoColor=white" /></a>
-<a href="https://www.awwwards.com/" target="_blank"><img src="https://img.shields.io/badge/Awwwards-111111?style=for-the-badge&logo=awwwards&logoColor=gold" /></a>
+<a href="https://www.awwwards.com/" target="_blank"><img src="https://img.shields.io/badge/Awwwards-111111?style=for-the-badge&logo=awwwards&logoColor=white" /></a>
 <a href="https://www.discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.scholar.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=blue" /></a>
 <a href="https://www.icml.cc/" target="_blank"><img src="https://img.shields.io/badge/ICML-FFD700?style=for-the-badge&logo=icml&logoColor=white" /></a>
