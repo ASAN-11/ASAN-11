@@ -174,6 +174,7 @@
 <a href="https://www.neurips.cc/" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-7F00FF?style=for-the-badge&logo=neurips&logoColor=white" /></a>
 <a href="https://www.ieee.org/" target="_blank"><img src="https://img.shields.io/badge/IEEE-FFFFFF?style=for-the-badge&logo=ieee&logoColor=blue" /></a>
 <a href="https://www.elsevier.com/" target="_blank"><img src="https://img.shields.io/badge/Elsevier-FF4203?style=for-the-badge&logo=elsevier&logoColor=white" /></a>
+<a href="https://www.example.com/" target="_blank"><img src="https://img.shields.io/badge/Markup-FF4203?style=for-the-badge&logo=markup&logoColor=white" /></a>
 </div>
 
 
