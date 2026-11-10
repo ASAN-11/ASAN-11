@@ -85,7 +85,6 @@
 ![arXiv](https://img.shields.io/badge/arXiv-111111?style=for-the-badge&logo=arxiv)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111111?style=for-the-badge&logo=huggingface)
-![SpaceXSI](https://img.shields.io/badge/SpaceXAI-111111?style=for-the-badge&logo=spacexai)
 
 
 ### Professional Domains
