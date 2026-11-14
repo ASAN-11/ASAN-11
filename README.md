@@ -10,7 +10,7 @@
 🛰️ Interested in **Astrospace Engineering & Space Technology**  
 ⚛️ Researching **Nanotechnology & Advanced Materials**  
 💻 Developing scalable systems as an **SDE**  
-🌐 Exploring decentralized  in **Web3 & Cybersecurity**  
+🌐 Exploring decentralized ecosystems in **Web3 & Cybersecurity**  
 ⚗️ Connecting **New-Gen Technology** in exploration of **Universe** 
 
 
