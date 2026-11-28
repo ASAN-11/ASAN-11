@@ -9,7 +9,7 @@
 🤖 Building with **AI/ML, Robotics & Intelligent Systems**  
 🛰️ Interested in **Astrospace Engineering & Space Technology**  
 ⚛️ Researching **Nanotechnology & Advanced Materials**  
-💻 Developing  systems as an **SDE**  
+💻 Developing scalable systems as an **SDE**  
 🌐 Exploring decentralized ecosystems in **Web3 & Cybersecurity**  
 ⚗️ Connecting **New-Gen Technology** in exploration of **Universe** 
 
